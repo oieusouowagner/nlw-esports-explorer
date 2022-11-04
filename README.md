@@ -6,7 +6,7 @@
 
 Projeto concluido do evento Next Level da Rocketseat.
 
-[ Clique aqui para acessar ](https://wagnersouyzavr.github.io/nlw-esports-explorer/)
+[ Clique aqui para acessar ](https:///oieusouowagner.github.io/nlw-esports-explorer/)
 
 
 ## 🚀 Tecnologias
